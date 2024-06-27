@@ -98,11 +98,8 @@ button {
 /* ------------MAIN - SECTION - ABOUT US----------- */
 .visually-hidden {
   position: absolute;
-  width: 1px;
-  height: 1px;
   margin: -1px;
   border: 0;
-  padding: 0;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -136,10 +133,11 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-image {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .team-subtitle {
   font-weight: 500;
@@ -168,10 +166,11 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-image {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .portfolio-subtitle {
