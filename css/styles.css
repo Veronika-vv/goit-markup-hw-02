@@ -97,7 +97,6 @@ button {
 
 /* ------------MAIN - SECTION - ABOUT US----------- */
 .visually-hidden {
-  position: absolute;
   margin: -1px;
   border: 0;
   white-space: nowrap;
@@ -136,9 +135,10 @@ button {
   text-transform: capitalize;
 }
 
-.team-image {
+.team-item {
   background-color: #ffffff;
 }
+
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
